@@ -4,6 +4,6 @@ import java.applet.Applet;
 
 public class User {
     public void say(String name) {
-        int a = 100;
+        int a =100;
     }
 }
